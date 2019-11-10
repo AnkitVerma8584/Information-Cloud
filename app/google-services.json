@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "497139283391",
+    "firebase_url": "https://effective-light-255013.firebaseio.com",
+    "project_id": "effective-light-255013",
+    "storage_bucket": "effective-light-255013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497139283391:android:a9fa71f5782fbf21785d0a",
+        "android_client_info": {
+          "package_name": "com.example.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497139283391-egejv7t1cdvs851ak8mi34r9idr7l4ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cloud",
+            "certificate_hash": "756052dc12a5832e61c0e928fd9c6bdb14c536d5"
+          }
+        },
+        {
+          "client_id": "497139283391-s45gtj9fgc4edtaah39vv3sk96ek4prd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQE-XE9TkL_xE-1KW6PcZUrL82PYgHJHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497139283391-s45gtj9fgc4edtaah39vv3sk96ek4prd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
